@@ -1,0 +1,17 @@
+======================================================================
+      INDEPENDENT TEST SET REPORT - 95% CONFIDENCE INTERVALS
+======================================================================
+
+Total Test Cohort Size: 1499
+Critical Escalation Cases: 141 (9.41% prevalence)
+
+BOOTSTRAP PERFORMANCE METRICS (95% CI):
+  - Accuracy    :  95.06% (95% CI: 93.93% to 96.07%)
+  - Sensitivity :  75.25% (95% CI: 68.15% to 82.54%)
+  - Specificity :  97.12% (95% CI: 96.18% to 97.94%)
+  - Precision   :  73.01% (95% CI: 65.03% to 80.42%)
+  - F1          :  74.05% (95% CI: 67.83% to 79.86%)
+  - ROC_AUC     : 0.8591 (95% CI: 0.8086 to 0.9079)
+  - PR_AUC      : 0.7885 (95% CI: 0.7197 to 0.8476)
+
+======================================================================
