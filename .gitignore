@@ -156,3 +156,7 @@ cython_debug/
 # Project-specific exclusions
 # Exclude the large raw datasets (vitals and chest radiographs)
 data/
+
+# Locally generated reports and scripts
+final_project_report.docx
+convert_report.py
